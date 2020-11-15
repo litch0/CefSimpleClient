@@ -4,13 +4,15 @@ this is just a test app to test Chromium Embed Framework
 
 ## Building
 
-create a temp dir
+### create a temp dir
 ```Console
 mkdir build
 cd build
 ```
 
-build the project
+### build the project
+you have to download libcef.so from the cef project and put it inside Libs/Release or use the libcef.so on the [releases](https://github.com/litch0/CefSimpleClient/releases/tag/1.0.0)
+
 ```Console
 cmake ..
 make

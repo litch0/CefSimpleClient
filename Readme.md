@@ -1,6 +1,6 @@
 # CefSimpleApp
 
-this is just a test app to test Chromium Embed Framework
+this is just a test app to test [Chromium Embed Framework](https://bitbucket.org/chromiumembedded/cef)
 
 ## Building
 
